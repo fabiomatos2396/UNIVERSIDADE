@@ -1,0 +1,489 @@
+\subsection*{2.4. Finanças Sustentáveis}
+
+\section*{1. O que são Finanças Sustentáveis?}
+
+Representam a transição do modelo financeiro tradicional (focado apenas no lucro) para uma abordagem holística que integra preocupações económicas, sociais e ambientais. O objetivo é alinhar o fluxo de capital com a preservação do planeta e a justiça social.
+- Marco histórico: Acordo de Paris e ODS (2015) - compromissos globais para a descarbonização e os 17 Objetivos de Desenvolvimento Sustentável das Nações Unidas.
+
+\section*{2. Os Critérios ESG}
+
+Os critérios ESG organizam as preocupações de sustentabilidade em três dimensões:
+
+\begin{tabular}{|l|l|l|}
+\hline Dimensão & Sigla & Exemplos \\
+\hline Ambiental & E & Emissões de carbono, eficiência energética, biodiversidade, resíduos \\
+\hline Social & S & Direitos humanos, condições de trabalho, inclusão, comunidades \\
+\hline Governação & G & Ética empresarial, transparência, independência dos conselhos, anticorrupção \\
+\hline
+\end{tabular}
+
+\section*{3. Princípios Fundamentais}
+- Materialidade: os riscos ESG têm impacto financeiro real no desempenho das empresas.
+- Transparência: essencial para combater o greenwashing e gerar confiança nos mercados.
+- Gestão de Risco: integração de riscos físicos (eventos climáticos) e de transição (mudanças regulatórias e tecnológicas) nos modelos financeiros.
+
+\section*{4. Instrumentos Financeiros}
+
+\subsection*{4.1 Instrumentos de Dívida Titulada}
+- Green Bonds (Obrigações Verdes): financiam projetos com impacto ambiental positivo (ex: energias renováveis).
+- Social Bonds (Obrigações Sociais): focadas em habitação acessível, saúde e educação em comunidades vulneráveis.
+- Sustainability Bonds: combinam objetivos ambientais e sociais num único instrumento.
+
+\subsection*{4.2 Financiamento Bancário e Empréstimos}
+- Green Banking Loans: empréstimos exclusivos para projetos ambientais verificáveis.
+- Sustainability-Linked Loans (SLL): a taxa de juro varia com o cumprimento de metas ESG predefinidas (KPIs).
+- Hipotecas Verdes: financiamento habitacional focado na eficiência energética dos imóveis.
+
+\subsection*{4.3 Produtos de Investimento e Finanças de Impacto}
+- Fundos de Investimento Sustentáveis (FIS): aplicam critérios de exclusão (ex: evitar tabaco) ou inclusão (best-in-class) baseados em ratings ESG.
+- ETF ESG: fundos de índice que replicam empresas com elevado desempenho em sustentabilidade.
+- Finanças de Impacto: investimentos com a intenção explícita de gerar retorno financeiro e impacto social/ambiental mensurável.
+
+\section*{5. Impacto no Valor das Empresas}
+- Custo de Capital (WACC): empresas com boas práticas ESG tendem a ter menor custo de dívida e capital próprio, devido ao menor risco percebido.
+- Fluxos de Caixa (FCF): melhoria da eficiência operacional (menos desperdício) e acesso a novos mercados verdes aumentam os fluxos de caixa futuros.
+- Resiliência: portfólios ESG demonstram maior capacidade de recuperação em períodos de crise financeira.
+
+\section*{6. Desafios e Barreiras à Implementação}
+- Greenwashing: prática de alegações de sustentabilidade enganosas para atrair investidores sem impacto real.
+- Falta de padronização: ausência de normas globais unificadas para métricas ESG, dificultando a comparação entre empresas.
+- Custos de transição: investimentos iniciais elevados em novas tecnologias e processos necessários para a descarbonização.
+
+\section*{7. Papel dos Reguladores e Perspetivas Futuras}
+- Taxonomia Europeia: sistema de classificação que define quais as atividades económicas que podem ser consideradas sustentáveis.
+- SFDR e CSRD: regulamentação rigorosa de transparência para gestores de ativos e grandes empresas.
+- Inovação digital: uso de tecnologia digital para garantir a rastreabilidade dos ativos verdes e combater fraudes.
+
+\section*{4. A Função Financeira na Empresa}
+
+\section*{1. Enquadramento da Função Financeira}
+
+A função financeira consiste na gestão dos recursos financeiros da organização - obtenção, aplicação e controlo dos fundos necessários ao funcionamento e desenvolvimento organizacional.
+- Objetivo central: assegurar a disponibilidade de financiamento, a utilização eficiente dos recursos e o equilíbrio financeiro ao longo do tempo.
+- Concretiza-se: através de decisões financeiras de curto, médio e longo prazo, que condicionam o investimento, o financiamento e a criação de valor sustentável.
+
+\subsection*{1.1 As Organizações e as Empresas}
+
+As organizações caracterizam-se por: formalidade vs informalidade, serem sistemas abertos, interagirem com o meio ambiente e reagirem à mudança (ou serem proativas).
+
+Uma empresa é uma unidade económica que combina meios humanos, técnicos e financeiros, com a finalidade de alcançar determinados objetivos. Como unidade económica, é:
+
+\begin{tabular}{|l|l|}
+\hline Tipo & Descrição \\
+\hline Unidade de produção & Combina fatores económicos segundo uma ação planeada. \\
+\hline Unidade de decisão, planeamento e controlo & Prossegue metas e fins implícitos com formulação de objetivos e programação. \\
+\hline Unidade financeira & Implica propriedade de meios de produção (capital) e relação com o meio envolvente. \\
+\hline Organização & Implica relações formais/informais, motivações, conflitos de interesses e superioridade do interesse da organização. \\
+\hline
+\end{tabular}
+
+\subsection*{1.2 Objetivos Gerais das Empresas}
+
+As empresas diferem em função do objeto de atividade, forma jurídica, dimensão, forma de organização e visão/missão. Os seus objetivos gerais incluem:
+- Proporcionar a satisfação das necessidades de bens e serviços da sociedade;
+- Utilizar e gerir os fatores de produção de forma racional;
+- Proporcionar uma justa remuneração dos fatores de produção;
+- Criação de valor económico sustentável, controlo do risco e boa governação;
+- Responsabilidade social e ambiental;
+- Alinhamento com os ODS (Objetivos de Desenvolvimento Sustentável da ONU).
+
+\subsection*{1.3 Sustentabilidade e Valor da Empresa}
+
+A sustentabilidade é hoje um fator económico e financeiro importante. As empresas são avaliadas pelos seus desempenhos ambiental, social e de governação (ESG), o que exige integrar critérios ESG nas decisões financeiras.
+
+\section*{O valor da empresa é influenciado por:}
+- Expectativas dos investidores sobre os cash-flows futuros;
+- Qualidade dos projetos e taxa de reinvestimento;
+- Custo de oportunidade do capital;
+- Desempenho ambiental, social e de governação (ESG).
+
+Para criar valor económico sustentável é necessário considerar: relação rendibilidade/risco, relação resultados/cash-flows, e definição de objetivos para rendimentos, resultados, dimensão, quota de mercado e impacto.
+
+\subsection*{1.4 Gestão Financeira vs. Análise Financeira}
+
+A função financeira subdivide-se em duas grandes componentes:
+- Gestão financeira: aplica técnicas para obter regularmente os recursos financeiros necessários ao menor custo, sem alienar a independência da empresa, e controla a rendibilidade dos investimentos e os impactos ambientais e sociais.
+- Análise financeira: recolhe e analisa informação económico-financeira (contabilística e extracontabilística) para estudar a situação passada e presente da empresa e determinar a sua provável evolução futura.
+
+\section*{As decisões de gestão financeira devem:}
+- Assegurar o equilíbrio dos fluxos económicos e financeiros;
+- Estabelecer condições para otimizar e rendibilizar os capitais aplicados;
+- Garantir os recursos necessários nas melhores condições;
+- Salvaguardar a adequação das fontes de financiamento, minimizando riscos;
+- Considerar os impactos ambientais e sociais das decisões;
+- Providenciar informação para os responsáveis dos diversos níveis de decisão.
+
+Da análise financeira resulta o diagnóstico económico-financeiro, que avalia: equilíbrio financeiro (curto e médio/longo prazo), rendibilidade, risco e impacto, proporcionando uma visão global da situação da empresa para suportar a tomada de decisão.
+
+\section*{2. Decisões Financeiras (4.2)}
+
+\section*{As decisões financeiras nas empresas dividem-se em dois grandes grupos:}
+
+\begin{tabular}{|l|l|l|}
+\hline Prazo & Tipo & Instrumentos \\
+\hline Médio/Longo prazo & Decisões de investimento Decisões de financiamento Distribuição de resultados & Estratégia financeira Orçamento financeiro Políticas de investimento, financiamento e dividendos \\
+\hline Curto prazo & Decisões operacionais (ativos e passivos correntes) & Gestão de caixa, clientes, inventários, fornecedores Orçamento de tesouraria \\
+\hline
+\end{tabular}
+
+\subsection*{2.1 Decisões de Médio e Longo Prazo}
+
+Influenciam o comportamento dos fluxos financeiros futuros e são determinantes para o valor de mercado da empresa. Incluem:
+- Decisões de investimento (alocação de recursos): analisam a rendibilidade e o risco de projetos que implicam saída de fundos no presente em troca de entrada futura. Critério fundamental: Taxa de retorno > Custo do capital. Consideram impactos ambientais e sociais.
+- Decisões de financiamento (captação de fundos): visam proporcionar os meios financeiros necessários. Fontes possíveis: autofinanciamento, aumentos de capital ou capital alheio. A escolha deve ponderar acessibilidade, custo, exigibilidade (prazos) e garantias exigidas.
+Objetivo: minimizar custo do capital + minimizar risco de incumprimento + maximizar o valor da empresa.
+- Decisões relativas à distribuição de resultados: os resultados positivos podem ser retidos na empresa (autofinanciamento) ou distribuídos aos acionistas sob a forma de dividendos, compra de ações próprias ou distribuição gratuita de novas ações. Levantam questões sobre quando e quanto distribuir - respondidas pelas teorias sobre política de dividendos.
+
+\subsection*{2.2 Decisões de Curto Prazo}
+
+Centram-se na gestão corrente (dia-a-dia) da empresa e complementam as decisões de médio/longo prazo. Visam garantir liquidez suficiente e minimizar custos de financiamento.
+- Gestão de ativos correntes: caixa e equivalentes (liquidez e tesouraria), clientes/crédito concedido (política de crédito, prazos de recebimento, cobranças) e inventários (níveis de stock, custos de armazenagem, risco de ruturas).
+- Gestão de passivos correntes: fornecedores/crédito obtido (condições de pagamento, negociação de prazos), planeamento das necessidades de tesouraria e financiamento de curto prazo (linhas de crédito).
+
+\subsection*{2.3 Integração de Critérios ESG nas Decisões Financeiras}
+
+Atualmente as decisões financeiras integram critérios ESG (ambientais, sociais e de governação), procurando conciliar rendibilidade, risco e impacto. Exemplos práticos:
+- Cotadas da Euronext geraram 279 mil milhões de euros em negócios sustentáveis alinhados com a taxonomia europeia (2025).
+- ESG já tem peso nos salários de topo das empresas em Portugal - pode influenciar até $20 \%$ da componente variável da remuneração.
+- A Cimpor explora emissão de obrigações verdes (green bonds) para financiar projetos de descarbonização e cimento sustentável.
+
+\section*{5. Decisões Financeiras de Curto Prazo}
+
+\section*{Introdução: As Decisões Financeiras de Curto Prazo}
+
+As decisões financeiras de curto prazo estão relacionadas com a gestão das operações correntes da empresa e com o financiamento do seu ciclo normal de atividade. O seu principal objetivo é assegurar a liquidez necessária para cumprir atempadamente as obrigações da empresa.
+- Envolvem: a gestão eficiente dos ativos correntes e dos passivos correntes, procurando equilibrar liquidez, risco e rendibilidade.
+- Objetivo da gestão financeira: gerir os ativos e passivos de modo a alcançar equilíbrio entre rendibilidade e risco, garantindo estrutura financeira com liquidez suficiente para cumprir as exigências de curto prazo.
+- Uma gestão adequada do ciclo de exploração contribui para manter o equilíbrio financeiro e assegurar a continuidade da atividade.
+
+\section*{Ciclos Financeiros da Empresa}
+
+Os ciclos financeiros da empresa subdividem-se em três:
+
+\begin{tabular}{|l|l|l|}
+\hline Ciclo & Atividades & Traduz-se em... \\
+\hline Investimento & Análise e seleção de investimentos e desinvestimentos & Ativo não corrente \\
+\hline Exploração & Aprovisionamento, produção e comercialização & Necessidades cíclicas (clientes e stocks) e recursos cíclicos (fornecedores) \\
+\hline Financiamento & Obtenção de fundos adequados aos investimentos e às NFM & Operações de capital e operações de tesouraria \\
+\hline
+\end{tabular}
+
+As decisões de curto prazo centram-se no ciclo de exploração (operacional), que compreende:
+
+Compra de m.p. ou mercadoria → Pagamento aos fornecedores (cash-outflow) $\rightarrow$ Venda a crédito → Recebimento de clientes (cash-inflow)
+
+\subsection*{5.1 Ciclo de Exploração e Ciclo de Caixa}
+
+\section*{Ativos e Passivos Correntes}
+
+\begin{tabular}{|l|l|}
+\hline Ativos Correntes & Passivos Correntes \\
+\hline Realizados/vendidos/consumidos no decurso do ciclo de exploração & Liquidados no decurso do ciclo de exploração \\
+\hline Detidos essencialmente para negociação & Detidos para financiar parte dos ativos de maior liquidez \\
+\hline Realizados em liquidez num período até 12 meses após o balanço & Vencem-se num período até 12 meses após o balanço \\
+\hline Incluem elementos de caixa ou equivalentes de caixa & Não dão direito incondicional de diferir a liquidação por 12 meses \\
+\hline
+\end{tabular}
+
+Nota: quando o ciclo operacional for claramente identificável, os ativos e passivos são classificados como não correntes se a sua maturidade for superior à do ciclo.
+
+\section*{Regras de Gestão do Ativo e Passivo Corrente}
+- Reduzir ao mínimo possível os meios financeiros líquidos.
+- Receber dos clientes o mais rapidamente possível, sem prejudicar a rendibilidade, o nível de atividade e a posição concorrencial.
+- Acelerar ao máximo a rotação dos stocks de inventários, sem prejuízo dos níveis de aprovisionamento, produção e comercialização.
+- Gerir os pagamentos aos fornecedores, negociando prazos de pagamento dilatados no tempo, sem descredibilizar a imagem da empresa.
+
+\section*{Necessidades de Fundo de Maneio (NFM) — Working Capital}
+
+As $\boldsymbol{N} \boldsymbol{F} \boldsymbol{M}$ correspondem aos fundos que a empresa tem de aplicar para financiar o seu ciclo de exploração. Dependem de: setor de atividade, rotação dos stocks e tecnologia utilizada, prazos dos créditos concedidos e obtidos, e nível de atividade.
+
+\section*{Algumas rubricas de ativos e passivos correntes têm caráter de permanente renovação:}
+- Clientes: decorrem do crédito concedido - à medida que se liquidam, originam-se novos créditos.
+- Fornecedores: decorrem do crédito obtido - à medida que se pagam, obtêm-se novos créditos.
+- Estado: impostos e contribuições que se renovam permanentemente (ex.: IVA).
+- Inventários: necessidade permanente de manter stocks para evitar ruturas.
+
+\begin{tabular}{|l|l|}
+\hline Necessidades Cíclicas (NC) & Recursos Cíclicos (RC) \\
+\hline Inventários & Fornecedores (m.p., mercadorias, FSE) \\
+\hline Clientes & Adiantamentos de clientes \\
+\hline Adiantamentos a fornecedores & Estado e outros entes públicos (a pagar) \\
+\hline Estado e outros entes públicos (a receber) & Outras contas a pagar (de exploração) \\
+\hline Outras contas a receber (de exploração) & \\
+\hline Reserva mínima de disponibilidades & \\
+\hline
+\end{tabular}
+
+\section*{Fórmula de cálculo:}
+NFM = Necessidades Cíclicas (NC) - Recursos Cíclicos (RC)
+
+\section*{Interpretação:}
+- $\mathbf{N F M}>\mathbf{0}(\mathbf{N C}>\mathbf{R C})$ : existe necessidade de financiar o ciclo de exploração.
+- $\mathbf{N F M}<\mathbf{0}(\mathbf{N C}<\mathbf{R C})$ : existe um excedente financeiro do ciclo de exploração.
+
+As NFM dependem da duração do ciclo operacional e da duração do ciclo de caixa (ou financeiro):
+- Ciclo operacional: $n^{\circ}$ de dias que decorre entre a aquisição de ativos para processamento e a sua realização em caixa (recebimento efetivo das vendas).
+- Ciclo de caixa: $n^{\circ}$ de dias em que os meios monetários estão imobilizados pelo ciclo operacional. Reflete o $\mathrm{n}^{\mathrm{o}}$ de dias médio que a empresa necessita de financiamento até recuperar o capital investido.
+
+\section*{Fórmula do Ciclo de Caixa}
+
+\section*{Ciclo de caixa $=\mathbf{D M I}+\mathbf{P M R}-\mathbf{P M P}$}
+- DMI: Duração Média dos stocks de Inventários
+- PMR: Prazo Médio de Recebimentos (de clientes)
+- PMP: Prazo Médio de Pagamentos (a fornecedores)
+
+Fórmulas de Cálculo - DMI, PMR, PMP
+
+\section*{Duração Média dos Inventários (DMI)}
+
+\begin{tabular}{|l|}
+\hline DMI (mercadorias) $\boldsymbol{=}$ (Inventários de mercadorias / Custo das mercadorias vendidas) $\boldsymbol{\times} \mathbf{3 6 0}$ \\
+\hline DMI (matérias primas) = (Inventários de matérias primas / Custo das matérias consumidas) × 360 \\
+\hline DMI (produtos em curso) = (Inventários de produtos em curso / Custo de produção) × $\mathbf{3 6 0}$ \\
+\hline
+\end{tabular}
+
+DMI (produtos acabados) = (Inventários de produtos acabados / Custo dos produtos vendidos) $\boldsymbol{\times} \mathbf{3 6 0}$
+
+\section*{Prazo Médio de Recebimentos (PMR)}
+$$
+\text { PMR }=[\text { Clientes } /(\text { Vendas }+ \text { Prest. serviços }) \times(1+\text { taxaIVA })] \times 360
+$$
+
+\section*{Prazo Médio de Pagamentos (PMP)}
+$$
+\mathrm{PMP}=[\text { Fornecedores } /(\text { Compras }+ \text { FSE }) \times(1+\text { taxaIVA })] \times 360
+$$
+
+\section*{Estratégias para Reduzir o Ciclo de Caixa}
+
+Objetivo: reduzir o ciclo de caixa mantendo (ou aumentando) o volume de negócios e mantendo (ou diminuindo) os gastos.
+- Reduzir o DMI: aumentar a eficiência do ciclo de produção.
+- Reduzir o PMR: diminuir o prazo do crédito concedido ou aplicar controlo mais rigoroso aos clientes.
+- Aumentar o PMP: negociar prazos de pagamento mais alargados com fornecedores.
+
+\subsection*{5.2 Gestão de Ativos Correntes}
+
+A gestão de ativos correntes centra-se em três grandes componentes:
+- Stocks de inventários: bens adquiridos ou produzidos cuja utilização diferida implica retenção temporária na empresa.
+- Dívidas a receber (curto prazo): saldos de clientes, resultado das políticas de crédito e cobrança.
+- Meios financeiros líquidos: ativos líquidos ou com elevada aptidão para conversão em liquidez.
+
+\subsection*{5.2.1 Gestão de Stocks de Inventários}
+
+A importância da gestão de stocks decorre de:
+- O peso do custo das matérias no custo final do produto.
+- O peso significativo que os stocks podem ter no ativo da empresa.
+- Serem a componente do ativo corrente com menor grau de liquidez.
+- A falta de stocks poder acarretar paralisação da produção (empresa industrial) ou perda de vendas (empresa comercial).
+
+A política de stocks é definida em função de: quantidade de bens que a empresa prevê produzir e vender, escalonamento da produção e vendas (sazonalidade), e custo da manutenção de stocks e impacto na tesouraria.
+
+Objetivo: minimizar o investimento em inventários (sem comprometer a atividade) e assegurar os níveis necessários ao menor custo possível. Técnicas de gestão de stocks: Análise ABC , Modelo do Lote Económico, Just-in-time.
+
+\section*{Fatores a ponderar nos stocks mínimos:}
+- Produtos acabados: duração do ciclo produtivo, diversidade dos produtos, rede de distribuição.
+- Produtos intermédios: velocidade do processo de fabrico, relação de quantidades por unidade de produto final.
+- Matérias-primas: capacidade de resposta dos fornecedores, grau de risco de falha na cadeia de abastecimento.
+
+\begin{tabular}{|l|l|}
+\hline Vantagens de manter stocks & Inconvenientes de manter stocks \\
+\hline Evitar ruturas na produção/vendas por incumprimento de fornecedores & Investimentos elevados e imobilização de capital \\
+\hline Garantir consumo constante ao longo do período & Deterioração dos produtos \\
+\hline Proteção contra contingências & Aumento do espaço e custos de armazenagem \\
+\hline Obtenção de descontos de quantidade ou redução de custos de encomenda & Efeitos negativos sobre a tesouraria e rendibilidade \\
+\hline
+\end{tabular}
+
+\subsection*{5.2.2 Gestão de Dívidas a Receber (Curto Prazo)}
+
+Decorre da definição de políticas de crédito e de cobrança - regras orientadoras de conduta comercial e financeira. A concessão de crédito é condicionada pelas práticas do setor e pela natureza dos produtos.
+
+\section*{Objetivos da gestão de dívidas a receber:}
+- Redução do volume do crédito concedido.
+- Maximização da rotação dos créditos concedidos.
+- Redução do risco de incumprimento.
+
+A gestão das dívidas a receber compreende: definição das condições de venda, seleção permanente de clientes e monitorização dos créditos concedidos.
+
+\section*{Custos vs. Benefícios da concessão de crédito:}
+- Custos: risco de incumprimento, imobilização de capital, custo de oportunidade (rendibilidade de aplicações alternativas), despesas administrativas de monitorização.
+- Benefícios: potencial aumento de volume de negócios, obtenção de vantagens comerciais.
+
+\section*{Fatores a ponderar na concessão de crédito:}
+- Limites de crédito e prazos de pagamento.
+- Risco de crédito (ou de incumprimento).
+- Rendibilidade (de produtos e clientes).
+- Implicações sobre a tesouraria (impacto no ciclo de exploração e nas NFM).
+- Descontos de pronto pagamento (DPP): reduzem o PMR e o risco de crédito, mas têm custos de oportunidade.
+- Titulação de vendas (letras comerciais): melhor garantia de pagamento; aumenta a disponibilidade do crédito, mas tem custos com desconto de títulos.
+
+\subsection*{5.2.3 Gestão dos Meios Financeiros Líquidos}
+
+A detenção de meios financeiros líquidos é justificada por três motivos:
+- Transação: fazer face aos pagamentos correntes (fornecedores, pessoal, Estado).
+- Precaução: constituir reservas para desembolsos inesperados.
+- Especulação: aproveitar oportunidades de negócio (mercados financeiros, compras com descontos).
+
+\section*{Custos vs. Benefícios:}
+- Custos: os meios mais líquidos têm fraco contributo para a rendibilidade da empresa.
+- Benefícios: reduzem o risco de liquidez e a eventual incapacidade de cumprir compromissos.
+
+\section*{Equilíbrio:}
+- Montantes reduzidos: levam a vendas frequentes de títulos para cumprir compromissos origina gastos.
+- Montantes elevados: têm custo de oportunidade (rendimento que a empresa deixa de receber).
+
+\section*{Objetivos da gestão de meios financeiros líquidos:}
+- Definir e controlar o montante ótimo imediatamente disponível para fazer face a compromissos.
+- Evitar a ocorrência de défices de tesouraria (que têm de ser financiados).
+- Decidir onde e quando aplicar os excedentes de tesouraria.
+
+O nível ótimo depende de: capacidade de previsão dos fluxos de curto prazo, flexibilidade das relações com clientes e fornecedores, e existência de linhas de crédito ou ativos com elevado grau de liquidez. Modelos utilizados: Modelo linear, Modelo de Baumol, Modelo de Miller-Orr.
+
+\section*{Gestão de excedentes e défices de tesouraria:}
+- Excedentes: aplicações financeiras analisadas em função de rendibilidade, risco, liquidez, maturidade e impacto fiscal (ex.: bilhetes do tesouro, aplicações bancárias, fundos de investimento, papel comercial).
+- Défices: financiar pelas soluções menos onerosas.
+
+\subsection*{5.3 Gestão de Passivos Correntes}
+
+\begin{table}
+\captionsetup{labelformat=empty}
+\caption{Centra-se na gestão das dívidas a pagar de curto prazo:}
+\begin{tabular}{|l|l|}
+\hline Tipo & Descrição \\
+\hline Crédito de fornecedores & Dívidas decorrentes de créditos obtidos de fornecedores (m.p., mercadorias e FSE) \\
+\hline Dívidas ao Estado e EOEP & Montantes a pagar ao Estado decorrentes das obrigações fiscais \\
+\hline Financiamentos obtidos (curto prazo) & Fundos obtidos para financiar défices de tesouraria ou oportunidades de negócio \\
+\hline
+\end{tabular}
+\end{table}
+
+\section*{Crédito de Fornecedores}
+
+O crédito de fornecedores (titulado e não titulado) surge das aquisições de bens e serviços indispensáveis ao ciclo de exploração. É uma das principais fontes de financiamento a curto prazo, com elevado grau de renovabilidade, que concorre para a redução das NFM.
+
+\section*{A gestão das contas de fornecedores é responsável por:}
+- Avaliar os custos explícitos e implícitos do crédito obtido.
+- Procurar diversificar os fornecedores.
+- Controlar os prazos médios de pagamento.
+- Evitar atrasos nos pagamentos (preservar imagem e evitar custos financeiros acrescidos).
+- Evitar a titulação das compras com encargos de desconto bancário incluídos.
+- Minimizar custos implícitos, negociando descontos financeiros e obtendo financiamentos alternativos mais baratos.
+
+A política de pagamentos a fornecedores depende de: custo efetivo do crédito concedido, situação de tesouraria da empresa, e possibilidade de fontes de financiamento alternativas. O pronto pagamento é interessante quando a rendibilidade financeira é superior ao custo de outra fonte ou quando a empresa tem excedentes de liquidez.
+
+\section*{Dívidas ao Estado e Outros Entes Públicos (EOEP)}
+- Montantes a pagar ao Estado decorrentes do desenvolvimento da atividade.
+- São um contributo importante para os recursos cíclicos, diminuindo as NFM com efeito positivo na tesouraria.
+- A empresa não tem capacidade de negociar as condições - limita-se a aproveitar os prazos de pagamento concedidos.
+
+\section*{Financiamentos Obtidos de Curto Prazo}
+
+A escolha das alternativas de financiamento deve ponderar: custo, acessibilidade, exigibilidade e garantias.
+
+Alternativas disponíveis: Crédito bancário (empréstimos, conta corrente, overdraft, desconto de títulos), Factoring, Papel comercial, Créditos especializados.
+
+\section*{Crédito em Conta Corrente}
+
+Operação pela qual uma instituição de crédito se compromete a disponibilizar ao cliente uma quantia - plafond de crédito - durante um período (determinado ou indeterminado). Não há obrigatoriedade de utilização. O mutuário paga comissões, reembolsa o capital e paga juros conforme o crédito utilizado.
+
+Distingue-se dos empréstimos por: ser mais flexível e de prazos mais curtos, sem plano de amortização pré-definido; possibilidade de renovação; juros calculados diariamente e pagos periodicamente; pode ter comissões diversas (estudo, gestão, imobilização, renovação). Quando garantida, diz-se caucionada.
+
+\section*{Descoberto Bancário (Overdraft)}
+
+O banco autoriza a movimentação da conta à ordem com saldo negativo até um limite (plafond) e durante um prazo normalmente renovável. Juros calculados diariamente. Custo de financiamento elevado (a empresa pode utilizar o crédito sem intervenção prévia do banco).
+
+\section*{Livranças}
+
+Títulos de crédito negociáveis nos quais o subscritor (emitente) se compromete a pagar ao beneficiário (tomador) uma determinada quantia numa data futura. Frequentemente usadas para titular financiamentos bancários de curto prazo.
+
+Elementos obrigatórios (art. 75.º da Lei Uniforme): palavra "livrança", promessa pura de pagar, momento do pagamento, local do pagamento, nome do beneficiário, data e local de emissão, assinatura do subscritor.
+
+\section*{Desconto de Livranças}
+
+Permite obtenção de financiamento bancário de curto prazo. As linhas de desconto fixam um montante máximo. Os títulos podem ser reformados (aumento da maturidade). Devem ponderar-se o custo do desconto (juros com +2 dias adicionais, comissões e impostos) e a situação de tesouraria.
+
+Caso 1 - VN = capital mutuado (encargos pagos postecipadamente):
+$$
+\text { V_liquidar }=V N \times\left[1+((t+2) / 360 \times i) \times\left(1+i \_ \text {selo }\right)\right]
+$$
+
+Caso 2 - VN inclui capital mutuado + encargos ("desconto por dentro"):
+$$
+V N=V L+V L \times((t+2) / 360 \times i) \times\left(1+i \_ \text {selo }\right)
+$$
+
+Legenda: $\mathrm{VN}=$ valor nominal $\mid \mathrm{VL}=$ valor líquido $\mid \mathrm{t}=$ dias até ao vencimento $\mid \mathrm{i}=$ taxa de juro $\mid$ i_selo = taxa de imposto do selo
+
+\section*{Letras}
+
+Títulos de crédito pelos quais um agente (sacador/credor) ordena a outro (sacado/devedor) que pague a si próprio ou a um terceiro (beneficiário) uma importância determinada em data determinada.
+
+Intervenientes: sacador, sacado, aceitante (sacado após assinar), endossante, endossado, cedente (apresenta ao banco), avalista (garante pagamento).
+
+Elementos obrigatórios (art. 1. ${ }^{\circ}$ da Lei Uniforme): palavra "letra", mandato puro de pagar, nome do sacado, momento do pagamento, local do pagamento, nome do beneficiário, data e local de emissão, assinatura do sacador.
+
+\section*{Desconto Comercial de Letras}
+
+Permite o recebimento antecipado de créditos sobre clientes. O banco antecipa o montante, deduzindo juros do tempo que falta para o vencimento e outros encargos, adquirindo a titularidade do crédito. As linhas fixam o montante máximo (risco máximo do banco).
+
+\section*{Fórmula do Valor Líquido do desconto de letras:}
+$$
+V L=V N-[V N \times((t+2) / 360 \times i)+c \times V N] \times\left(1+i \_ \text {selo }\right)
+$$
+
+Legenda: $\mathrm{VN}=$ valor nominal $\mid \mathrm{t}=$ dias até vencimento $\mid \mathrm{c}=$ comissão bancária $\mid \mathrm{i} \_$selo $=$taxa de imposto do selo
+
+\section*{Garantia Bancária}
+
+Crédito por assinatura - o banco apenas garante, perante terceiros, o bom cumprimento de uma obrigação financeira, sem disponibilizar nenhuma importância efetiva. São cobradas comissões de garantia. O banco terá de disponibilizar as quantias se o cliente não cumprir.
+
+\section*{Crédito Documentário}
+
+O banco, a pedido de uma empresa importadora (ordenador), responsabiliza-se por colocar à disposição de um exportador (beneficiário) uma determinada quantia, normalmente através de outro banco (correspondente), contra entrega de documentação. Vocacionado para o comércio externo.
+- Para o importador: garante que o banco só paga se o exportador cumprir todos os requisitos da Carta de Crédito.
+- Para o exportador: garante o pagamento contra entrega dos documentos exigidos.
+- Sujeito às Regras e Usos Uniformes da Câmara de Comércio Internacional.
+
+\section*{Factoring (Cedência de Créditos)}
+
+Operação pela qual uma empresa (aderente) cede créditos comerciais de curto prazo que possui sobre os seus clientes (devedores) a uma instituição financeira (factor), que fica responsável pela cobrança na respetiva data de vencimento. É simultaneamente um serviço de cobrança e um complemento de financiamento.
+
+\begin{tabular}{|l|l|}
+\hline Factoring com recurso & Factoring sem recurso \\
+\hline O factor NÃO assume o risco de incumprimento é o aderente que o suporta. & O factor ASSUME a cobertura do risco de incumprimento dos devedores. \\
+\hline Se tiver havido financiamento, os montantes antecipados são debitados na conta do aderente em caso de incumprimento. & Mesmo que o devedor não liquide na data de vencimento, o montante adiantado NÃO tem de ser devolvido. \\
+\hline
+\end{tabular}
+
+Encargos do factoring: comissão de factoring (cobrada na cedência dos créditos - remunera gestão, cobrança e risco) + juros (se existir adiantamento - calculados ao dia e debitados mensalmente).
+
+\begin{tabular}{|l|l|}
+\hline Vantagens do Factoring & Inconvenientes do Factoring \\
+\hline Liberta a empresa da gestão de cobranças (reduz custos administrativos) & Pode ter custo elevado - comissões incidem sobre o valor das faturas \\
+\hline Proporciona recursos imediatos (recebimento quase à vista) & Adiantamentos com margem de segurança (10\%20\%) \\
+\hline Acesso a financiamento de natureza comercial, sem endividamento & Intromissão do factor entre a empresa e os seus clientes \\
+\hline Minimiza incobráveis & Possibilidade de perda de clientes pelo rigor das cobranças \\
+\hline
+\end{tabular}
+
+\section*{Desconto de Pronto Pagamento (DPP) aos Clientes}
+
+Consiste na negociação da antecipação do recebimento de vendas a crédito, em troca de um desconto. O DPP gera um custo financeiro para quem o concede, pelo que o seu valor deve ter como referência o custo de outras fontes de financiamento.
+
+O pronto pagamento é interessante para o comprador quando a rendibilidade financeira é superior ao custo de outra fonte alternativa, ou quando dispõe de excedentes temporários de liquidez.
+
+\section*{Fórmula da taxa de juro anual implícita no DPP:}
+$$
+\text { Taxa implícita }=(1+\text { Dpp } /(1-\text { Dpp }))^{\wedge}(360 / t)-1
+$$
+
+Legenda: $\mathrm{Dpp}=$ desconto de pronto pagamento $\mid \mathrm{t}=$ prazo do crédito - prazo do pronto pagamento
+
+\begin{tabular}{|l|l|}
+\hline Vantagens do DPP & Inconvenientes do DPP \\
+\hline Negociação feita no mercado conhecido da empresa & A capacidade de financiamento está limitada ao montante dos créditos concedidos \\
+\hline Facilita o financiamento da empresa que concede o desconto & Pode não coincidir com as necessidades efetivas de recursos \\
+\hline Pode contribuir para a redução do risco de incumprimento & \\
+\hline
+\end{tabular}
